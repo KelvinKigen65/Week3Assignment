@@ -1,0 +1,5 @@
+This is the first line.
+Here is the second line.
+Python makes file handling easy.
+Let's count the words in this file.
+This is the final line in the text.
